@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Responsive Dialog built with Bootstrap 5. Examples of dialog box UI for confirm & reject dialog popups, alert dialogs & more.",
   "private": false,
-  "homepage": "https://mdbootstrap.com/docs/react/extended/labels/",
+  "homepage": "https://mdbootstrap.com/docs/react/extended/dialog/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mdbootstrap/react-dialog.git"
