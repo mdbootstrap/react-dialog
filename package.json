@@ -1,6 +1,6 @@
 {
   "name": "@mdbootstrap/react-dialog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Responsive Dialog built with Bootstrap 5. Examples of dialog box UI for confirm & reject dialog popups, alert dialogs & more.",
   "private": false,
   "homepage": "https://mdbootstrap.com/docs/react/extended/dialog/",
